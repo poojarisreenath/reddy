@@ -19,3 +19,4 @@ area = [[1800]]
 price = model.predict(area)
 
 print("Predicted house price:", round(price[0], 2), "Lakhs")
+# House Price Prediction projects
